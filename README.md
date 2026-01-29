@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibnadams
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning Microsoft Azure 
-- 💞️ I’m looking to collaborate on building Apps, and self paced learning 
+- 🌱 I’m currently learning Data Analysis.
+- 💞️ I’m looking to collaborate and self paced learning 
 - 📫 How to reach me +2348164454174
 
 <!---
